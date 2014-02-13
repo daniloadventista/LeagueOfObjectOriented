@@ -29,6 +29,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		11A9531218AD297E00DC7D9B /* tarefar.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = tarefar.txt; sourceTree = "<group>"; };
 		271F24581854A34F0024E200 /* LeagueOfObjectOriented */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = LeagueOfObjectOriented; sourceTree = BUILT_PRODUCTS_DIR; };
 		271F245B1854A34F0024E200 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		271F245E1854A34F0024E200 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
@@ -91,6 +92,7 @@
 				271F246D1854FBB50024E200 /* Arma.m */,
 				271F246F1854FEDE0024E200 /* LeagueOfOrientedObject.h */,
 				271F24701854FEDE0024E200 /* LeagueOfOrientedObject.m */,
+				11A9531218AD297E00DC7D9B /* tarefar.txt */,
 			);
 			path = LeagueOfObjectOriented;
 			sourceTree = "<group>";
@@ -269,6 +271,7 @@
 				271F24681854A34F0024E200 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
