@@ -15,10 +15,13 @@
 #import <stdio.h>
 #import <time.h>
 #import "Factory.h"
+#import "LOOLViewController5.h"
 
 @implementation LeagueOfOrientedObject
 
 //singleton
+
+
 static LeagueOfOrientedObject* _sharedLeagueOfOrientedObject = nil;
 +(LeagueOfOrientedObject*)sharedLeagueOfOrientedObject{
     @synchronized([LeagueOfOrientedObject class])
@@ -51,6 +54,7 @@ static LeagueOfOrientedObject* _sharedLeagueOfOrientedObject = nil;
 
 
 -(void) jogar {
+    LOOLViewController5 *jogador = [[LOOLViewController5 alloc]init];
     srand(time(NULL));
     Arena* arena = [[Arena alloc] init];
     NSLog(@"Arena: ");
@@ -60,7 +64,7 @@ static LeagueOfOrientedObject* _sharedLeagueOfOrientedObject = nil;
     while (![self verificarVencedor]) {
         if (primeiro == 1) {
             double a = [player1 ataque:arena];
-            NSLog(@"Ataque do player1 = %f\n",a);
+            
             [player2 sofrerAtaque:a];
             NSLog(@"Vida do player2 = %f\n",[player2 vida]);
             double b = [player2 ataque:arena];
@@ -70,8 +74,8 @@ static LeagueOfOrientedObject* _sharedLeagueOfOrientedObject = nil;
             
         }
         else {
-            double b = [player2 ataque:arena];
-            NSLog(@"Ataque do player2 = %f\n",b);
+            float b = [player2 ataque:arena];
+            jogador.Vida= [[NSString alloc] initWithFormat:@"%f", b];
             [player1 sofrerAtaque:b];
             NSLog(@"Vida do player1 = %f\n",[player1 vida]);
             double a = [player1 ataque:arena];

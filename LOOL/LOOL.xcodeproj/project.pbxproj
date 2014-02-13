@@ -32,6 +32,7 @@
 		11A9537D18AD2FF600DC7D9B /* Machado.m in Sources */ = {isa = PBXBuildFile; fileRef = 11A9537618AD2FF600DC7D9B /* Machado.m */; };
 		11A9537E18AD2FF600DC7D9B /* Magia.m in Sources */ = {isa = PBXBuildFile; fileRef = 11A9537818AD2FF600DC7D9B /* Magia.m */; };
 		5B2BE51C18AD340500C827BA /* LOOLViewController2.m in Sources */ = {isa = PBXBuildFile; fileRef = 5B2BE51B18AD340500C827BA /* LOOLViewController2.m */; };
+		8745AAA518AD3DCE0038C0C8 /* LOOLViewController3.m in Sources */ = {isa = PBXBuildFile; fileRef = 8745AAA418AD3DCE0038C0C8 /* LOOLViewController3.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -86,6 +87,8 @@
 		11A9537818AD2FF600DC7D9B /* Magia.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Magia.m; sourceTree = "<group>"; };
 		5B2BE51A18AD340500C827BA /* LOOLViewController2.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LOOLViewController2.h; sourceTree = "<group>"; };
 		5B2BE51B18AD340500C827BA /* LOOLViewController2.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LOOLViewController2.m; sourceTree = "<group>"; };
+		8745AAA318AD3DCE0038C0C8 /* LOOLViewController3.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LOOLViewController3.h; sourceTree = "<group>"; };
+		8745AAA418AD3DCE0038C0C8 /* LOOLViewController3.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LOOLViewController3.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -168,6 +171,8 @@
 				11A9532E18AD2CDF00DC7D9B /* LOOLAppDelegate.h */,
 				11A9532F18AD2CDF00DC7D9B /* LOOLAppDelegate.m */,
 				11A9533118AD2CDF00DC7D9B /* Main.storyboard */,
+				8745AAA318AD3DCE0038C0C8 /* LOOLViewController3.h */,
+				8745AAA418AD3DCE0038C0C8 /* LOOLViewController3.m */,
 				11A9533418AD2CDF00DC7D9B /* LOOLViewController.h */,
 				5B2BE51A18AD340500C827BA /* LOOLViewController2.h */,
 				5B2BE51B18AD340500C827BA /* LOOLViewController2.m */,
@@ -310,6 +315,7 @@
 				11A9537D18AD2FF600DC7D9B /* Machado.m in Sources */,
 				11A9536918AD2E4200DC7D9B /* LeagueOfOrientedObject.m in Sources */,
 				11A9533018AD2CDF00DC7D9B /* LOOLAppDelegate.m in Sources */,
+				8745AAA518AD3DCE0038C0C8 /* LOOLViewController3.m in Sources */,
 				11A9537E18AD2FF600DC7D9B /* Magia.m in Sources */,
 				11A9536818AD2E4200DC7D9B /* Jogador.m in Sources */,
 				11A9533618AD2CDF00DC7D9B /* LOOLViewController.m in Sources */,

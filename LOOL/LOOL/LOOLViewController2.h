@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface LOOLViewController2 : UIImagePickerController
+@interface LOOLViewController2 : UIViewController
 
 @end
