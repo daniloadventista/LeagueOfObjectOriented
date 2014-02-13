@@ -2,26 +2,18 @@
 //  main.m
 //  Loo
 //
-//  Created by ANDRE GIMENEZ on 11/18/13.
-//  Copyright (c) 2013 Andre_Glauco. All rights reserved.
+//  Created by Danilo Lima on 11/18/13.
+//  Copyright (c) 2013 Danilo Lima. All rights reserved.
 //
 
-#import <Foundation/Foundation.h>
-#import "LeagueOfOrientedObject.h"
-#import "Arena.h"
+#import <UIKit/UIKit.h>
 
+#import "LOOLAppDelegate.h"
 
-int main(int argc, const char * argv[])
+int main(int argc, char * argv[])
 {
-
     @autoreleasepool {
-        
-        
-        //LeagueOfOrientedObject *loo = [[LeagueOfOrientedObject alloc] init];
-        LeagueOfOrientedObject *loo = [LeagueOfOrientedObject sharedLeagueOfOrientedObject];
-        [loo main];
-        
+        return UIApplicationMain(argc, argv, nil, NSStringFromClass([LOOLAppDelegate class]));
     }
-    return 0;
 }
 

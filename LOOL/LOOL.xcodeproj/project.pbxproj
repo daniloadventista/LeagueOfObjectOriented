@@ -24,7 +24,6 @@
 		11A9536718AD2E4200DC7D9B /* Arma.m in Sources */ = {isa = PBXBuildFile; fileRef = 11A9536018AD2E4200DC7D9B /* Arma.m */; };
 		11A9536818AD2E4200DC7D9B /* Jogador.m in Sources */ = {isa = PBXBuildFile; fileRef = 11A9536218AD2E4200DC7D9B /* Jogador.m */; };
 		11A9536918AD2E4200DC7D9B /* LeagueOfOrientedObject.m in Sources */ = {isa = PBXBuildFile; fileRef = 11A9536518AD2E4200DC7D9B /* LeagueOfOrientedObject.m */; };
-		11A9536A18AD2E4200DC7D9B /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 11A9536618AD2E4200DC7D9B /* main.m */; };
 		11A9536C18AD2E4F00DC7D9B /* tarefas.txt in Resources */ = {isa = PBXBuildFile; fileRef = 11A9536B18AD2E4F00DC7D9B /* tarefas.txt */; };
 		11A9537918AD2FF600DC7D9B /* ArcoEFlecha.m in Sources */ = {isa = PBXBuildFile; fileRef = 11A9536E18AD2FF600DC7D9B /* ArcoEFlecha.m */; };
 		11A9537A18AD2FF600DC7D9B /* Arena.m in Sources */ = {isa = PBXBuildFile; fileRef = 11A9537018AD2FF600DC7D9B /* Arena.m */; };
@@ -71,7 +70,6 @@
 		11A9536318AD2E4200DC7D9B /* LeagueOfObjectOriented-Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "LeagueOfObjectOriented-Prefix.pch"; sourceTree = "<group>"; };
 		11A9536418AD2E4200DC7D9B /* LeagueOfOrientedObject.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LeagueOfOrientedObject.h; sourceTree = "<group>"; };
 		11A9536518AD2E4200DC7D9B /* LeagueOfOrientedObject.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LeagueOfOrientedObject.m; sourceTree = "<group>"; };
-		11A9536618AD2E4200DC7D9B /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		11A9536B18AD2E4F00DC7D9B /* tarefas.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = tarefas.txt; sourceTree = "<group>"; };
 		11A9536D18AD2FF600DC7D9B /* ArcoEFlecha.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ArcoEFlecha.h; sourceTree = "<group>"; };
 		11A9536E18AD2FF600DC7D9B /* ArcoEFlecha.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ArcoEFlecha.m; sourceTree = "<group>"; };
@@ -164,7 +162,6 @@
 				11A9536B18AD2E4F00DC7D9B /* tarefas.txt */,
 				11A9536418AD2E4200DC7D9B /* LeagueOfOrientedObject.h */,
 				11A9536518AD2E4200DC7D9B /* LeagueOfOrientedObject.m */,
-				11A9536618AD2E4200DC7D9B /* main.m */,
 				11A9532E18AD2CDF00DC7D9B /* LOOLAppDelegate.h */,
 				11A9532F18AD2CDF00DC7D9B /* LOOLAppDelegate.m */,
 				11A9533118AD2CDF00DC7D9B /* Main.storyboard */,
@@ -306,7 +303,6 @@
 			files = (
 				11A9537A18AD2FF600DC7D9B /* Arena.m in Sources */,
 				11A9537D18AD2FF600DC7D9B /* Machado.m in Sources */,
-				11A9536A18AD2E4200DC7D9B /* main.m in Sources */,
 				11A9536918AD2E4200DC7D9B /* LeagueOfOrientedObject.m in Sources */,
 				11A9533018AD2CDF00DC7D9B /* LOOLAppDelegate.m in Sources */,
 				11A9537E18AD2FF600DC7D9B /* Magia.m in Sources */,
