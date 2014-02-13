@@ -3,5 +3,6 @@ LOOL
 	Persistir 
 		Perfil
 			Nome de usuario
-			
-        2 Guerreiros
+			senha
+            2 Guerreiros
+    Telas estilo liked list.
