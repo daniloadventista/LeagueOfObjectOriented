@@ -21,10 +21,11 @@
 		11A9534118AD2CE000DC7D9B /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 11A9532318AD2CDF00DC7D9B /* UIKit.framework */; };
 		11A9534918AD2CE000DC7D9B /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 11A9534718AD2CE000DC7D9B /* InfoPlist.strings */; };
 		11A9534B18AD2CE000DC7D9B /* LOOLTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 11A9534A18AD2CE000DC7D9B /* LOOLTests.m */; };
-		11A9535B18AD2D3100DC7D9B /* Jogador.m in Sources */ = {isa = PBXBuildFile; fileRef = 11A9535518AD2D3100DC7D9B /* Jogador.m */; };
-		11A9535C18AD2D3100DC7D9B /* Arma.m in Sources */ = {isa = PBXBuildFile; fileRef = 11A9535718AD2D3100DC7D9B /* Arma.m */; };
-		11A9535D18AD2D3100DC7D9B /* LeagueOfOrientedObject.m in Sources */ = {isa = PBXBuildFile; fileRef = 11A9535918AD2D3100DC7D9B /* LeagueOfOrientedObject.m */; };
-		11A9535E18AD2D3100DC7D9B /* tarefar.txt in Resources */ = {isa = PBXBuildFile; fileRef = 11A9535A18AD2D3100DC7D9B /* tarefar.txt */; };
+		11A9536718AD2E4200DC7D9B /* Arma.m in Sources */ = {isa = PBXBuildFile; fileRef = 11A9536018AD2E4200DC7D9B /* Arma.m */; };
+		11A9536818AD2E4200DC7D9B /* Jogador.m in Sources */ = {isa = PBXBuildFile; fileRef = 11A9536218AD2E4200DC7D9B /* Jogador.m */; };
+		11A9536918AD2E4200DC7D9B /* LeagueOfOrientedObject.m in Sources */ = {isa = PBXBuildFile; fileRef = 11A9536518AD2E4200DC7D9B /* LeagueOfOrientedObject.m */; };
+		11A9536A18AD2E4200DC7D9B /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 11A9536618AD2E4200DC7D9B /* main.m */; };
+		11A9536C18AD2E4F00DC7D9B /* tarefas.txt in Resources */ = {isa = PBXBuildFile; fileRef = 11A9536B18AD2E4F00DC7D9B /* tarefas.txt */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -57,13 +58,15 @@
 		11A9534618AD2CE000DC7D9B /* LOOLTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "LOOLTests-Info.plist"; sourceTree = "<group>"; };
 		11A9534818AD2CE000DC7D9B /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		11A9534A18AD2CE000DC7D9B /* LOOLTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = LOOLTests.m; sourceTree = "<group>"; };
-		11A9535418AD2D3100DC7D9B /* Jogador.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Jogador.h; path = ../../LeagueOfObjectOriented/Jogador.h; sourceTree = "<group>"; };
-		11A9535518AD2D3100DC7D9B /* Jogador.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = Jogador.m; path = ../../LeagueOfObjectOriented/Jogador.m; sourceTree = "<group>"; };
-		11A9535618AD2D3100DC7D9B /* Arma.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Arma.h; path = ../../LeagueOfObjectOriented/Arma.h; sourceTree = "<group>"; };
-		11A9535718AD2D3100DC7D9B /* Arma.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = Arma.m; path = ../../LeagueOfObjectOriented/Arma.m; sourceTree = "<group>"; };
-		11A9535818AD2D3100DC7D9B /* LeagueOfOrientedObject.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = LeagueOfOrientedObject.h; path = ../../LeagueOfObjectOriented/LeagueOfOrientedObject.h; sourceTree = "<group>"; };
-		11A9535918AD2D3100DC7D9B /* LeagueOfOrientedObject.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = LeagueOfOrientedObject.m; path = ../../LeagueOfObjectOriented/LeagueOfOrientedObject.m; sourceTree = "<group>"; };
-		11A9535A18AD2D3100DC7D9B /* tarefar.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = tarefar.txt; path = ../../LeagueOfObjectOriented/tarefar.txt; sourceTree = "<group>"; };
+		11A9535F18AD2E4200DC7D9B /* Arma.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Arma.h; sourceTree = "<group>"; };
+		11A9536018AD2E4200DC7D9B /* Arma.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Arma.m; sourceTree = "<group>"; };
+		11A9536118AD2E4200DC7D9B /* Jogador.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Jogador.h; sourceTree = "<group>"; };
+		11A9536218AD2E4200DC7D9B /* Jogador.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Jogador.m; sourceTree = "<group>"; };
+		11A9536318AD2E4200DC7D9B /* LeagueOfObjectOriented-Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "LeagueOfObjectOriented-Prefix.pch"; sourceTree = "<group>"; };
+		11A9536418AD2E4200DC7D9B /* LeagueOfOrientedObject.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LeagueOfOrientedObject.h; sourceTree = "<group>"; };
+		11A9536518AD2E4200DC7D9B /* LeagueOfOrientedObject.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LeagueOfOrientedObject.m; sourceTree = "<group>"; };
+		11A9536618AD2E4200DC7D9B /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		11A9536B18AD2E4F00DC7D9B /* tarefas.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = tarefas.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -123,13 +126,15 @@
 		11A9532518AD2CDF00DC7D9B /* LOOL */ = {
 			isa = PBXGroup;
 			children = (
-				11A9535418AD2D3100DC7D9B /* Jogador.h */,
-				11A9535518AD2D3100DC7D9B /* Jogador.m */,
-				11A9535618AD2D3100DC7D9B /* Arma.h */,
-				11A9535718AD2D3100DC7D9B /* Arma.m */,
-				11A9535818AD2D3100DC7D9B /* LeagueOfOrientedObject.h */,
-				11A9535918AD2D3100DC7D9B /* LeagueOfOrientedObject.m */,
-				11A9535A18AD2D3100DC7D9B /* tarefar.txt */,
+				11A9535F18AD2E4200DC7D9B /* Arma.h */,
+				11A9536018AD2E4200DC7D9B /* Arma.m */,
+				11A9536118AD2E4200DC7D9B /* Jogador.h */,
+				11A9536218AD2E4200DC7D9B /* Jogador.m */,
+				11A9536318AD2E4200DC7D9B /* LeagueOfObjectOriented-Prefix.pch */,
+				11A9536B18AD2E4F00DC7D9B /* tarefas.txt */,
+				11A9536418AD2E4200DC7D9B /* LeagueOfOrientedObject.h */,
+				11A9536518AD2E4200DC7D9B /* LeagueOfOrientedObject.m */,
+				11A9536618AD2E4200DC7D9B /* main.m */,
 				11A9532E18AD2CDF00DC7D9B /* LOOLAppDelegate.h */,
 				11A9532F18AD2CDF00DC7D9B /* LOOLAppDelegate.m */,
 				11A9533118AD2CDF00DC7D9B /* Main.storyboard */,
@@ -249,7 +254,7 @@
 			files = (
 				11A9533818AD2CDF00DC7D9B /* Images.xcassets in Resources */,
 				11A9532A18AD2CDF00DC7D9B /* InfoPlist.strings in Resources */,
-				11A9535E18AD2D3100DC7D9B /* tarefar.txt in Resources */,
+				11A9536C18AD2E4F00DC7D9B /* tarefas.txt in Resources */,
 				11A9533318AD2CDF00DC7D9B /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -269,11 +274,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				11A9535C18AD2D3100DC7D9B /* Arma.m in Sources */,
+				11A9536A18AD2E4200DC7D9B /* main.m in Sources */,
+				11A9536918AD2E4200DC7D9B /* LeagueOfOrientedObject.m in Sources */,
 				11A9533018AD2CDF00DC7D9B /* LOOLAppDelegate.m in Sources */,
+				11A9536818AD2E4200DC7D9B /* Jogador.m in Sources */,
 				11A9533618AD2CDF00DC7D9B /* LOOLViewController.m in Sources */,
-				11A9535B18AD2D3100DC7D9B /* Jogador.m in Sources */,
-				11A9535D18AD2D3100DC7D9B /* LeagueOfOrientedObject.m in Sources */,
+				11A9536718AD2E4200DC7D9B /* Arma.m in Sources */,
 				11A9532C18AD2CDF00DC7D9B /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
