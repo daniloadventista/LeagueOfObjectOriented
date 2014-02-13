@@ -8,7 +8,9 @@
 
 #import <UIKit/UIKit.h>
 
-@interface LOOLViewController2 : UIImagePickerController
+@interface LOOLViewController2 : UIViewController
 <UITextFieldDelegate>
+@property (weak, nonatomic) IBOutlet UITextField *txtUser;
+@property (weak, nonatomic) IBOutlet UITextField *txtSenha;
 
 @end
