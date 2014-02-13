@@ -9,5 +9,6 @@
 #import <UIKit/UIKit.h>
 
 @interface LOOLViewController2 : UIImagePickerController
+<UITextFieldDelegate>
 
 @end
