@@ -31,8 +31,8 @@
 		11A9537C18AD2FF600DC7D9B /* Factory.m in Sources */ = {isa = PBXBuildFile; fileRef = 11A9537418AD2FF600DC7D9B /* Factory.m */; };
 		11A9537D18AD2FF600DC7D9B /* Machado.m in Sources */ = {isa = PBXBuildFile; fileRef = 11A9537618AD2FF600DC7D9B /* Machado.m */; };
 		11A9537E18AD2FF600DC7D9B /* Magia.m in Sources */ = {isa = PBXBuildFile; fileRef = 11A9537818AD2FF600DC7D9B /* Magia.m */; };
-		5B2BE51C18AD340500C827BA /* LOOLViewController2.m in Sources */ = {isa = PBXBuildFile; fileRef = 5B2BE51B18AD340500C827BA /* LOOLViewController2.m */; };
-		8745AAA518AD3DCE0038C0C8 /* LOOLViewController3.m in Sources */ = {isa = PBXBuildFile; fileRef = 8745AAA418AD3DCE0038C0C8 /* LOOLViewController3.m */; };
+		72A67C6518AD36E200FF74C3 /* Storm-iphone-5-wallpaper-ilikewallpaper_com.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 72A67C6418AD36E200FF74C3 /* Storm-iphone-5-wallpaper-ilikewallpaper_com.jpg */; };
+		72A67C6718AD389B00FF74C3 /* Storm-iphone-5-wallpaper-ilikewallpaper_com.png in Resources */ = {isa = PBXBuildFile; fileRef = 72A67C6618AD389B00FF74C3 /* Storm-iphone-5-wallpaper-ilikewallpaper_com.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -85,10 +85,8 @@
 		11A9537618AD2FF600DC7D9B /* Machado.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Machado.m; sourceTree = "<group>"; };
 		11A9537718AD2FF600DC7D9B /* Magia.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Magia.h; sourceTree = "<group>"; };
 		11A9537818AD2FF600DC7D9B /* Magia.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Magia.m; sourceTree = "<group>"; };
-		5B2BE51A18AD340500C827BA /* LOOLViewController2.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LOOLViewController2.h; sourceTree = "<group>"; };
-		5B2BE51B18AD340500C827BA /* LOOLViewController2.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LOOLViewController2.m; sourceTree = "<group>"; };
-		8745AAA318AD3DCE0038C0C8 /* LOOLViewController3.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LOOLViewController3.h; sourceTree = "<group>"; };
-		8745AAA418AD3DCE0038C0C8 /* LOOLViewController3.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LOOLViewController3.m; sourceTree = "<group>"; };
+		72A67C6418AD36E200FF74C3 /* Storm-iphone-5-wallpaper-ilikewallpaper_com.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "Storm-iphone-5-wallpaper-ilikewallpaper_com.jpg"; path = "../../../Downloads/Storm-iphone-5-wallpaper-ilikewallpaper_com.jpg"; sourceTree = "<group>"; };
+		72A67C6618AD389B00FF74C3 /* Storm-iphone-5-wallpaper-ilikewallpaper_com.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Storm-iphone-5-wallpaper-ilikewallpaper_com.png"; path = "../../../Downloads/Storm-iphone-5-wallpaper-ilikewallpaper_com.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -171,13 +169,11 @@
 				11A9532E18AD2CDF00DC7D9B /* LOOLAppDelegate.h */,
 				11A9532F18AD2CDF00DC7D9B /* LOOLAppDelegate.m */,
 				11A9533118AD2CDF00DC7D9B /* Main.storyboard */,
-				8745AAA318AD3DCE0038C0C8 /* LOOLViewController3.h */,
-				8745AAA418AD3DCE0038C0C8 /* LOOLViewController3.m */,
 				11A9533418AD2CDF00DC7D9B /* LOOLViewController.h */,
-				5B2BE51A18AD340500C827BA /* LOOLViewController2.h */,
-				5B2BE51B18AD340500C827BA /* LOOLViewController2.m */,
 				11A9533518AD2CDF00DC7D9B /* LOOLViewController.m */,
 				11A9533718AD2CDF00DC7D9B /* Images.xcassets */,
+				72A67C6618AD389B00FF74C3 /* Storm-iphone-5-wallpaper-ilikewallpaper_com.png */,
+				72A67C6418AD36E200FF74C3 /* Storm-iphone-5-wallpaper-ilikewallpaper_com.jpg */,
 				11A9532618AD2CDF00DC7D9B /* Supporting Files */,
 			);
 			path = LOOL;
@@ -292,7 +288,9 @@
 				11A9533818AD2CDF00DC7D9B /* Images.xcassets in Resources */,
 				11A9532A18AD2CDF00DC7D9B /* InfoPlist.strings in Resources */,
 				11A9536C18AD2E4F00DC7D9B /* tarefas.txt in Resources */,
+				72A67C6518AD36E200FF74C3 /* Storm-iphone-5-wallpaper-ilikewallpaper_com.jpg in Resources */,
 				11A9533318AD2CDF00DC7D9B /* Main.storyboard in Resources */,
+				72A67C6718AD389B00FF74C3 /* Storm-iphone-5-wallpaper-ilikewallpaper_com.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -315,7 +313,6 @@
 				11A9537D18AD2FF600DC7D9B /* Machado.m in Sources */,
 				11A9536918AD2E4200DC7D9B /* LeagueOfOrientedObject.m in Sources */,
 				11A9533018AD2CDF00DC7D9B /* LOOLAppDelegate.m in Sources */,
-				8745AAA518AD3DCE0038C0C8 /* LOOLViewController3.m in Sources */,
 				11A9537E18AD2FF600DC7D9B /* Magia.m in Sources */,
 				11A9536818AD2E4200DC7D9B /* Jogador.m in Sources */,
 				11A9533618AD2CDF00DC7D9B /* LOOLViewController.m in Sources */,
@@ -324,7 +321,6 @@
 				11A9537C18AD2FF600DC7D9B /* Factory.m in Sources */,
 				11A9536718AD2E4200DC7D9B /* Arma.m in Sources */,
 				11A9532C18AD2CDF00DC7D9B /* main.m in Sources */,
-				5B2BE51C18AD340500C827BA /* LOOLViewController2.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
