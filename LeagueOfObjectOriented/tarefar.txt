@@ -6,3 +6,4 @@ LOOL
 			senha
             2 Guerreiros
     Telas estilo liked list.
+    Copiar e colar logica implementada nos exe's
