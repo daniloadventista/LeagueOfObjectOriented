@@ -31,6 +31,7 @@
 		11A9537C18AD2FF600DC7D9B /* Factory.m in Sources */ = {isa = PBXBuildFile; fileRef = 11A9537418AD2FF600DC7D9B /* Factory.m */; };
 		11A9537D18AD2FF600DC7D9B /* Machado.m in Sources */ = {isa = PBXBuildFile; fileRef = 11A9537618AD2FF600DC7D9B /* Machado.m */; };
 		11A9537E18AD2FF600DC7D9B /* Magia.m in Sources */ = {isa = PBXBuildFile; fileRef = 11A9537818AD2FF600DC7D9B /* Magia.m */; };
+		11E8E97A18AD43F10022FCDD /* LOOLProfile.m in Sources */ = {isa = PBXBuildFile; fileRef = 11E8E97918AD43F10022FCDD /* LOOLProfile.m */; };
 		5B2BE51C18AD340500C827BA /* LOOLViewController2.m in Sources */ = {isa = PBXBuildFile; fileRef = 5B2BE51B18AD340500C827BA /* LOOLViewController2.m */; };
 		8745AAA518AD3DCE0038C0C8 /* LOOLViewController3.m in Sources */ = {isa = PBXBuildFile; fileRef = 8745AAA418AD3DCE0038C0C8 /* LOOLViewController3.m */; };
 /* End PBXBuildFile section */
@@ -85,6 +86,8 @@
 		11A9537618AD2FF600DC7D9B /* Machado.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Machado.m; sourceTree = "<group>"; };
 		11A9537718AD2FF600DC7D9B /* Magia.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Magia.h; sourceTree = "<group>"; };
 		11A9537818AD2FF600DC7D9B /* Magia.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Magia.m; sourceTree = "<group>"; };
+		11E8E97818AD43F10022FCDD /* LOOLProfile.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LOOLProfile.h; sourceTree = "<group>"; };
+		11E8E97918AD43F10022FCDD /* LOOLProfile.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LOOLProfile.m; sourceTree = "<group>"; };
 		5B2BE51A18AD340500C827BA /* LOOLViewController2.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LOOLViewController2.h; sourceTree = "<group>"; };
 		5B2BE51B18AD340500C827BA /* LOOLViewController2.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LOOLViewController2.m; sourceTree = "<group>"; };
 		8745AAA318AD3DCE0038C0C8 /* LOOLViewController3.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LOOLViewController3.h; sourceTree = "<group>"; };
@@ -169,6 +172,8 @@
 				11A9536418AD2E4200DC7D9B /* LeagueOfOrientedObject.h */,
 				11A9536518AD2E4200DC7D9B /* LeagueOfOrientedObject.m */,
 				11A9532E18AD2CDF00DC7D9B /* LOOLAppDelegate.h */,
+				11E8E97818AD43F10022FCDD /* LOOLProfile.h */,
+				11E8E97918AD43F10022FCDD /* LOOLProfile.m */,
 				11A9532F18AD2CDF00DC7D9B /* LOOLAppDelegate.m */,
 				11A9533118AD2CDF00DC7D9B /* Main.storyboard */,
 				8745AAA318AD3DCE0038C0C8 /* LOOLViewController3.h */,
@@ -320,6 +325,7 @@
 				11A9536818AD2E4200DC7D9B /* Jogador.m in Sources */,
 				11A9533618AD2CDF00DC7D9B /* LOOLViewController.m in Sources */,
 				11A9537918AD2FF600DC7D9B /* ArcoEFlecha.m in Sources */,
+				11E8E97A18AD43F10022FCDD /* LOOLProfile.m in Sources */,
 				11A9537B18AD2FF600DC7D9B /* Espada.m in Sources */,
 				11A9537C18AD2FF600DC7D9B /* Factory.m in Sources */,
 				11A9536718AD2E4200DC7D9B /* Arma.m in Sources */,
