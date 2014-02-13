@@ -6,4 +6,4 @@ LOOL
 			senha
             2 Guerreiros
     Criar Telas estilo liked list.
-    Reutilizar logica implementada nos exe's
+    Reutilizar logica implementada nos exe's ->Danilo
