@@ -31,7 +31,6 @@
 		11A9537C18AD2FF600DC7D9B /* Factory.m in Sources */ = {isa = PBXBuildFile; fileRef = 11A9537418AD2FF600DC7D9B /* Factory.m */; };
 		11A9537D18AD2FF600DC7D9B /* Machado.m in Sources */ = {isa = PBXBuildFile; fileRef = 11A9537618AD2FF600DC7D9B /* Machado.m */; };
 		11A9537E18AD2FF600DC7D9B /* Magia.m in Sources */ = {isa = PBXBuildFile; fileRef = 11A9537818AD2FF600DC7D9B /* Magia.m */; };
-		11A9538118AD34A500DC7D9B /* LOOLPesrsistModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 11A9538018AD34A500DC7D9B /* LOOLPesrsistModel.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -84,8 +83,6 @@
 		11A9537618AD2FF600DC7D9B /* Machado.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Machado.m; sourceTree = "<group>"; };
 		11A9537718AD2FF600DC7D9B /* Magia.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Magia.h; sourceTree = "<group>"; };
 		11A9537818AD2FF600DC7D9B /* Magia.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Magia.m; sourceTree = "<group>"; };
-		11A9537F18AD34A500DC7D9B /* LOOLPesrsistModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LOOLPesrsistModel.h; sourceTree = "<group>"; };
-		11A9538018AD34A500DC7D9B /* LOOLPesrsistModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LOOLPesrsistModel.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -165,8 +162,6 @@
 				11A9536B18AD2E4F00DC7D9B /* tarefas.txt */,
 				11A9536418AD2E4200DC7D9B /* LeagueOfOrientedObject.h */,
 				11A9536518AD2E4200DC7D9B /* LeagueOfOrientedObject.m */,
-				11A9537F18AD34A500DC7D9B /* LOOLPesrsistModel.h */,
-				11A9538018AD34A500DC7D9B /* LOOLPesrsistModel.m */,
 				11A9532E18AD2CDF00DC7D9B /* LOOLAppDelegate.h */,
 				11A9532F18AD2CDF00DC7D9B /* LOOLAppDelegate.m */,
 				11A9533118AD2CDF00DC7D9B /* Main.storyboard */,
@@ -316,7 +311,6 @@
 				11A9537918AD2FF600DC7D9B /* ArcoEFlecha.m in Sources */,
 				11A9537B18AD2FF600DC7D9B /* Espada.m in Sources */,
 				11A9537C18AD2FF600DC7D9B /* Factory.m in Sources */,
-				11A9538118AD34A500DC7D9B /* LOOLPesrsistModel.m in Sources */,
 				11A9536718AD2E4200DC7D9B /* Arma.m in Sources */,
 				11A9532C18AD2CDF00DC7D9B /* main.m in Sources */,
 			);
