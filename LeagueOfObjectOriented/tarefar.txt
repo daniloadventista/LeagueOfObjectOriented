@@ -1,9 +1,9 @@
 LOOL
 
-	Persistir 
+	Persistir -> Danilo
 		Perfil
 			Nome de usuario
 			senha
             2 Guerreiros
-    Telas estilo liked list.
-    Copiar e colar logica implementada nos exe's
+    Criar Telas estilo liked list.
+    Reutilizar logica implementada nos exe's
