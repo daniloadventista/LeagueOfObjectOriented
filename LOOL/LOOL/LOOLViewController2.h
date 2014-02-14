@@ -9,10 +9,11 @@
 #import <UIKit/UIKit.h>
 
 @interface LOOLViewController2 : UIViewController
-
+<<<<<<< HEAD
+=======
 <UITextFieldDelegate>
 @property (weak, nonatomic) IBOutlet UITextField *txtUser;
 @property (weak, nonatomic) IBOutlet UITextField *txtSenha;
-
+>>>>>>> 7eec2f7162200802bbaaf182d0da78cbb51cae17
 
 @end
